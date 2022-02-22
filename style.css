@@ -1,12 +1,14 @@
+
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
+  padding: 0;
 }
 ul{ 
   margin: 0;
-  padding: .5%;;
+  padding: .5%;
   position:absolute;
-  width: 100%;
+  
   padding-left: 5%;
 
 }
@@ -14,7 +16,7 @@ li{
   list-style:none;
   text-decoration: none;
  float: left;
- margin:5px 10px 5px 50px; ;
+ margin:5px 10px 5px 50px; 
  padding: 5px 10px 5px 10px;
  
  border-radius: 5px;
